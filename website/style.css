@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+
+}
+
+.logo{
+    width: 12%;
+    height: 12%;
+}
+
+.card-img-top{
+    width: 100%;
+    height: 350px;
+    object-fit: contain;
+    border-radius: 40%;
+}
+
+.product_image{
+    width: 150px;
+    object-fit: contain;
+}
+
+.contact{
+    background-image: url("./image/bck13.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
+
+.corp{
+    background-image: url("./image/bck11.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.top{
+    background-image: url("./image/bck13.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.text{
+    background-image: url("./image/bck9.jpg");
+    height: 70px;
+    background-repeat: repeat;
+}
+
+
+
